@@ -1,0 +1,21 @@
+﻿file;audio;transcript;transcript_lex;lemm;POS;error;non-word
+P11;raw;checked and //;checked;checked;checked;marked;checked
+P12;raw;checked and //;checked;checked;checked;not checked;checked
+P13;no;checked and //;checked;checked;checked;marked;checked
+P14;;;;;;;
+P15;;;;;;;
+P16;;;;;;;
+P17;low priority;;;;;;
+P18;;;;;;;
+P19;;;;;;;
+P20;;checked and //;checked;checked;checked;not checked;checked
+P1;;checked and //;checked;checked;checked;not checked;checked
+P2;;;;;;;
+P3;;checked and //;checked;checked;checked;not checked;checked
+P4;;checked and //;checked;checked;checked;;checked
+P5;;checked and //;checked;checked;checked;;checked
+P6;;marked and //;marked;marked;marked;marked;marked
+P7;low priority;;;;;;
+P8;;checked and //;checked;checked;checked;;checked
+P9;;checked and //;checked;checked;checked;;checked
+P10;;;;;;;
